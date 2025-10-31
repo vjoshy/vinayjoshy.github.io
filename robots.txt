@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://vinayjoshy.github.io/sitemap.xml
+Sitemap: https://vjoshy.github.io/sitemap.xml
