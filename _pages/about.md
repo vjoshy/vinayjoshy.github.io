@@ -8,10 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  more_info: 
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,7 +24,17 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-It's a me! V-dawg. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm a Master of Statistics student at the [University of Guelph](https://www.uoguelph.ca/) supervised by the wonderful Dr. Zeny Feng. My research is on finite mixture models, particularly developing regularization methods for generalized linear regression mixture models. I completed my undergraduate degree in Bachelor of Mathematics at the University of Guelph and a Technical Diploma in Biotechnology at [Mohawk College](https://www.mohawkcollege.ca/).
+
+
+
+
+**Contact**: joshy (at) uoguelph (dot) ca\\
+**Follow**: <a href="https://scholar.google.com/citations?user=g5vIX6UAAAAJ&hl=en" title="Google Scholar"><i class="ai ai-google-scholar"></i> Google Scholar </a>&emsp;
+<a href="https://github.com/vjoshy" title="GitHub"><i class="fab fa-github"></i> GitHub </a>&emsp;
+<a href="https://www.linkedin.com/in/vinayjoshy/" title="LinkedIn"><i class="fab fa-linkedin"></i> LinkedIn </a>
+
+
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
