@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://www.uoguelph.ca/ccmps/news/2024/03/student-highlight-vinay-joshy'>University of Guelph </a>.
 
 profile:
   align: right
