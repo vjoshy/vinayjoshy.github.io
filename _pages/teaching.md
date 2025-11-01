@@ -1,12 +1,16 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching
+description: Courses I've been involved with
 nav: true
-nav_order: 6
+nav_order: 4
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+#### University of Guelph
+- **STAT3100 - Mathematical Statistics I**, Teaching Assistant in Fall 2025
+- **Statistics Learning Center**, Teaching Assistant in Fall 2023, 2024, 2025 and Winter 2024, 2025
+- **CIS2500 - Intermediate Programming**, Teaching Assistant in Winter 2024
+- **CIS1300 - Programming**, Teaching Assistant in Fall 2023
 
-Organize your courses by years, topics, or universities, however you like!
+
