@@ -8,6 +8,4 @@ related_posts: false
 
 Started MSc. Statistics at University of Guelph
 
----
-
 
