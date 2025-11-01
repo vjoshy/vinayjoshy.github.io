@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='https://www.uoguelph.ca/mathstat/'>Statistics</a>, University of Guelph
 
