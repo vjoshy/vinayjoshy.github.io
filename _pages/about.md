@@ -24,9 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a Master of Science in Statistics student at the [University of Guelph](https://www.uoguelph.ca/) supervised by the wonderful [Dr. Zeny Feng](https://mathstat.uoguelph.ca/people/feng). My research is on finite mixture models, particularly developing regularization methods for generalized linear regression mixture models. I completed my undergraduate degree in Bachelor of Mathematics at the University of Guelph and a Technical Diploma in Biotechnology at [Mohawk College](https://www.mohawkcollege.ca/).
-
-
+I'm a Master of Science in Statistics student at the [University of Guelph](https://www.uoguelph.ca/) supervised by the wonderful [Dr. Zeny Feng](https://mathstat.uoguelph.ca/people/feng). My research is on finite mixture models, particularly developing regularization methods for generalized linear regression mixture models. I completed my undergraduate degree in Bachelor of Mathematics at the University of Guelph and a Technical Diploma in Biotechnology at [Mohawk College](https://www.mohawkcollege.ca/). My most recent CV can be found [here](https://drive.google.com/file/d/10NE70TaEiNMN6H0XQ2IN9M1PDme7vKfX/view?usp=sharing).
 
 
 **Contact**: joshy (at) uoguelph (dot) ca\\
